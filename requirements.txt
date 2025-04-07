@@ -1,0 +1,6 @@
+openai
+streamlit
+streamlit-extras
+pandas
+plotly
+supabase
